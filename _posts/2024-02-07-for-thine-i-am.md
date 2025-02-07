@@ -2,6 +2,8 @@
 title: "For thine, I am. 저는 당신을 위해 존재합니다"
 image: 
     path: ./assets/img/back.jpeg
+categories: [Blog]
+tags: [physicist, instagram]
 ---
 
 ## 물리학도 
