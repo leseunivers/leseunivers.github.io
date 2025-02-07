@@ -1,5 +1,5 @@
 ---
-title: "Einstein's Equation"
+title: "For thine, I am. 저는 당신을 위해 존재합니다"
 image: 
     path: ./assets/img/back.jpeg
 ---
