@@ -1,6 +1,9 @@
 ---
 title: "Einstein's Equation"
+image: 
+    path: ./assets/img/back.jpeg
 ---
+
 
 “If A is success in life,” Einstein replied, “I should say the formula is A=X+Y+Z, X being work and Y being play.” Samuel asked, “And what is Z?” 
 
