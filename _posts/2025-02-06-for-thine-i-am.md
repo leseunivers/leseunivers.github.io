@@ -1,5 +1,6 @@
 ---
 title: "For thine, I am. 저는 당신을 위해 존재합니다"
+description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
