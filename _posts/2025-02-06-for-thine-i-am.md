@@ -19,7 +19,7 @@ tags: [physics, instagram, existence]
 Elon Musk in a CNBC interview: "Offer me money, offer me power, I don't care. ··· I'll say what I want to say and if the consequences of that is losing money, so be it."
 <br>
 
-### 인스타 게시물 
+### 인스타그램 게시물
 
 ![post](./assets/img/post.jpeg)
 
@@ -27,7 +27,7 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 <br>
 
 
-### 존재
+### 양자역학과 일반 상대성이론의 통합
 
 ![present](./assets/img/presence.jpeg)
 
