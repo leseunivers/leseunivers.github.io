@@ -4,7 +4,7 @@ description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
-tags: [physics, instagram, existence]
+tags: [physics, instagram, theory of everything]
 ---
 
 ### 물리학도 
@@ -28,7 +28,7 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 <br>
 
 
-### 양자역학과 일반 상대성이론의 통합
+### 모든 것의 이론(Theory of Everything)
 
 ![present](./assets/img/presence.jpeg)
 
