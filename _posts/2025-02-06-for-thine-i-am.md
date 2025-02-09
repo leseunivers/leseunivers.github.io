@@ -3,7 +3,7 @@ title: "For thine, I am. 저는 당신을 위해 존재합니다"
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
-tags: [physics, instagram, 존재]
+tags: [physics, instagram, existence]
 ---
 
 ### 물리학도 
@@ -36,10 +36,6 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 
 그렇다면 우리는 선택의 기로에서 무엇을 기준으로 나아가야 할까? 여기서 한 가지 질문이 떠오른다. 원인이면서 동시에 결과인 것은 무엇인가? 바로 사랑(愛)이다. 과거를 후회하지 않고 미래를 두려워하지 않으며 오직 이 순간에 존재한다.
 현재는 원인과 결과가 동시에 공존하는 곳이며, 모든 가능성이 펼쳐지는 곳이자, 현실을 창조할 수 있는 곳이다. 
-
-사랑이 없다면 존재 또한 무의미해진다. 모든 것이 사랑 없이 존재할 수 있을까?
-
-
 
 
 

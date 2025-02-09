@@ -16,7 +16,7 @@ timezone:
 
 title: ESMNCE # the main title
 
-tagline: For thine, I am. # it will display as the subtitle
+tagline: the Diamond Approach® # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   I'm blog | 신승민 블로그
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: SEUNG MIN SHIN
+  name: ESMNCE
   email: merl_oham@icloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.instagram.com/esmnce.im # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/seung-min-shin-105a2a349/
 
 # Site Verification Settings
 webmaster_verifications:
