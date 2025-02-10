@@ -1,6 +1,6 @@
 ---
 title: "이번이 마지막 인생이다"
-description: Hello, World! program is a computer program that emits to the screen a message "Hello, World!".
+description: Hello, World! program is a computer program that emits to the screen a message.
 image: 
     path: ./assets/img/start.jpeg
 categories: [Blog]
