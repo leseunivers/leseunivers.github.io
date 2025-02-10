@@ -72,7 +72,7 @@ I want to put more effort. Living as a student is a part of my life and I want t
 
 
 
-### Return of Dot-com bubble?
+### Return of the Dot-com bubble?
 
 ![dotcom](./assets/img/dotcom.png)
 
