@@ -6,7 +6,6 @@ image:
 categories: [Blog]
 tags: [post, instagram, theory of everything]
 ---
-후회 없이 살기 위해 노력하는 과정이 너무 고통스러웠다
 
 ### 물리학도    
 
