@@ -4,10 +4,10 @@ description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
-tags: [physics, instagram, theory of everything]
+tags: [post, instagram, theory of everything]
 ---
 
-### 물리학도 
+### 글을 써야 할까?
 
 
 “If A is success in life,” Einstein replied, “I should say the formula is A=X+Y+Z, X being work and Y being play.” Samuel asked, “And what is Z?” 
@@ -20,7 +20,8 @@ tags: [physics, instagram, theory of everything]
 Elon Musk in a CNBC interview: "Offer me money, offer me power, I don't care. ··· I'll say what I want to say and if the consequences of that is losing money, so be it."
 <br>
 
-### 인스타그램 게시물
+
+### 인스타그램 게시물 
 
 ![post](./assets/img/post.jpeg)
 
@@ -28,9 +29,13 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 <br>
 
 
+
 ### 모든 것의 이론(Theory of Everything)
 
 ![present](./assets/img/presence.jpeg)
+<small><a href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%93%A0_%EA%B2%83%EC%9D%98_%EC%9D%B4%EB%A1%A0">
+    *모든 것의 이론은 알려진 모든 물리적인 현상과 그 사이의 관계들을 완벽히 설명하기 위한 이론 물리학의 한 가설이다. 
+</a></small>
 
 존재의 의미를 찾기 전에 존재 그 자체가 성립한다. 만약 존재 이유를 찾지 않는다면, 존재 자체에 의미가 있을까?
 고전역학에서는 모든 결과가 원인을 가지지만, 양자역학은 원인 없는 결과도 가능함을 보여준다. 세상은 인과관계만으로 설명되지 않는다. 어떤 사건은 설명할 수 없는 무작위성을 띠며 발생한다.
