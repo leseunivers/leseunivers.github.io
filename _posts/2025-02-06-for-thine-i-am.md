@@ -45,7 +45,6 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 
 
 
-### OATLY 
 
 
 
