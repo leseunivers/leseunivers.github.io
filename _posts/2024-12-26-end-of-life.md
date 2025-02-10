@@ -1,5 +1,5 @@
 ---
-title: "이번이 마지막 인생이다"
+title: "방랑자 크눌프"
 description: Hello, World! program is a computer program that emits to the screen a message.
 image: 
     path: ./assets/img/start.jpeg
