@@ -1,6 +1,6 @@
 ---
-title: "Hello, World!"
-description: A "Hello, World!" program is a simple computer program that emits to the screen a message "Hello, World!".
+title: "저에게 안식을 주세요"
+description: Hello, World! program is a computer program that emits to the screen a message "Hello, World!".
 image: 
     path: ./assets/img/start.jpeg
 ---
