@@ -1,5 +1,5 @@
 ---
-title: "저에게 안식을 주세요"
+title: "안식을 주세요"
 description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg

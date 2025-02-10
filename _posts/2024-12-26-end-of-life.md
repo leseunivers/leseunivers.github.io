@@ -63,7 +63,7 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 
 ### College study
 
-![last](./assets/img/last.jpeg.jpeg)
+![last](./assets/img/cat.jpeg)
 
 
 I don't know what kind of value college study brings to me. There was a pressure from studying but it was kind of enjoyable. If I get another chance to take a test in the future,
