@@ -7,8 +7,7 @@ image:
 
 ### <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램"> Hello, World! </a>
 
-
-<img src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3">
+![apro](./assets/img/apro.jpeg)
 
 New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a>
 
@@ -17,9 +16,10 @@ Designing is something I enjoy. I started to make a website nine months ago. Sin
 The original concept was based on a website I was developing at the beginning of the semester. 
 
 
+
 ### Part-time job interview
 
-<img src="https://github.com/user-attachments/assets/39826e72-3d5b-4ff6-824a-8682198941d8">
+![job](./assets/img/job.jpeg.jpeg)
 
 I had a part-time job interview at a company called Etners. I felt nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no reason to have a part-time job. But I had come a long way, and I couldn't go back. For my future, I had to do this.
 
@@ -31,7 +31,7 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 
 ### Quotes
 
-<img src="https://github.com/user-attachments/assets/b2e814fc-1461-4496-8053-868197f3db77">
+![light](./assets/img/light.jpeg)
 
 "물리학에 따르면 모든 에너지는 보존된다. 우주의 에너지 총합은 결코 변하지 않으며, 현재 살아 있는 육체에 형상화된 에너지는 영원히 존재할 것이다.
 삶과 죽음의 과정은 바로 현재의 내가 빌려 쓰고 있는 에너지가 언젠가 다른 형태를 취하게 된다는 것을 뜻할 뿐이다. 하나의 물결에 불과한 삶은 시작도 끝도 없다.
@@ -48,7 +48,7 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 
 ### I saw what can't be seen
 
-<img src="https://github.com/user-attachments/assets/043c654a-5498-4744-b467-8d83f3e2dcf4">
+![himalayas](./assets/img/himalayas.jpeg)
 
 <a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent Hiking The Himalayas </a>
 
@@ -61,7 +61,8 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 
 ### College study
 
-<img src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7">
+![last](./assets/img/last.jpeg.jpeg)
+
 
 I don't know what kind of value college study brings to me. There was a pressure from studying but it was kind of enjoyable. If I get another chance to take a test in the future,
 I want to put more effort. Living as a student is a part of my life and I want to do my best in every aspect. I feel like I haven't really focused on studying this year and a part of me is rejected by myself. This feeling isn't pleasant. 
