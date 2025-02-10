@@ -1,8 +1,10 @@
 ---
-title: "저에게 안식을 주세요"
+title: "이번이 마지막 인생이다"
 description: Hello, World! program is a computer program that emits to the screen a message "Hello, World!".
 image: 
     path: ./assets/img/start.jpeg
+categories: [Blog]
+tags: [part-time, himalayas, study]
 ---
 
 ### <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램"> Hello, World! </a>
