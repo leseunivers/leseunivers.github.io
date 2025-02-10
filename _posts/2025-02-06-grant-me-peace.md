@@ -6,6 +6,7 @@ image:
 categories: [Blog]
 tags: [post, instagram, theory of everything]
 ---
+고딩 때부터 너무 고통스러운 인간관계가 있어서 힘들었다
 
 ### 물리학도
 
