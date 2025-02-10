@@ -4,7 +4,7 @@ description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
-tags: [post, instagram, theory of everything]
+tags: [post, instagram, theory of everything, oatly]
 ---
 
 ### 물리학도    
@@ -42,6 +42,17 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 
 그렇다면 우리는 선택의 기로에서 무엇을 기준으로 나아가야 할까? 여기서 한 가지 질문이 떠오른다. 원인이면서 동시에 결과인 것은 무엇인가? 바로 사랑(愛)이다. 과거를 후회하지 않고 미래를 두려워하지 않으며 오직 이 순간에 존재한다.
 현재는 원인과 결과가 동시에 공존하는 곳이며, 모든 가능성이 펼쳐지는 곳이자, 현실을 창조할 수 있는 곳이다. 
+
+
+
+### OATLY
+
+![oatly](./assets/img/oatly.jpeg)
+
+ADR(American Depositary Receipt)은 미국 은행이 외국 증권을 예탁받아 발행하는 증권이다. ADR과 보통주의 비율을 1대 1에서 1대 20으로 변경하는 것은 몇 가지 의미를 가질 수 있다. 하나는 주가 하락에 대비하기 위한 조치일 수 있고, 다른 하나는 주가 상승폭을 높이고 유동성을 확보하려는 전략일 수 있다.
+
+오틀리는 2025년 2월 12일 오전 8시(EST)에 2024년 4분기 실적 발표를 한다. 현재 1주당 가격이 약 0.5달러인데 ADR 비율 변경 계획을 발표하지 않는 것이 오히려 이상하다. 회사는 재무 건전성을 강화하고, 상장폐지를 방지하며, 장기적인 관점에서 펀더멘탈 향상을 위해 노력해야 할 시점이다.
+
 
 
 
