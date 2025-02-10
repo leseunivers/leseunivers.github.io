@@ -1,5 +1,5 @@
 ---
-title: "다음 생은 없다"
+title: "이번이 마지막 인생이다"
 description: The unification of quantum mechanics and general relativity
 image: 
     path: ./assets/img/back.jpeg
