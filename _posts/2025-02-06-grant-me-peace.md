@@ -6,9 +6,9 @@ image:
 categories: [Blog]
 tags: [post, instagram, theory of everything]
 ---
-고딩 때부터 너무 고통스러운 인간관계가 있어서 힘들었다
+고등학생 때부터 고통스러운 인간관계 때문에 너무 힘들었다
 
-### 물리학도
+### 물리학도    
 
 
 “If A is success in life,” Einstein replied, “I should say the formula is A=X+Y+Z, X being work and Y being play.” Samuel asked, “And what is Z?” 
