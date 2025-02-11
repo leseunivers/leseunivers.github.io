@@ -11,8 +11,6 @@ tags: [part-time, himalayas, study]
 
 ![apro](./assets/img/apro.jpeg)
 
-New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a>
-
 
 Designing is something I enjoy. I started to make a website nine months ago. Since then, there has been progress. 
 The original concept was based on a website I was developing at the beginning of the semester. 
