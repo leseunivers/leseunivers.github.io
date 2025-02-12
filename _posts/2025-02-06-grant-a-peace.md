@@ -7,16 +7,6 @@ categories: [Blog]
 tags: [post, instagram, theory of everything, oatly]
 ---
 
-### 물리학도    
-
-
-“If A is success in life,” Einstein replied, “I should say the formula is A=X+Y+Z, X being work and Y being play.” Samuel asked, “And what is Z?” 
-
-“That is keeping your mouth shut.” He answered.
-
-
-<br>
-
 
 ### 인스타그램 게시물 
 
@@ -51,7 +41,13 @@ ADR(American Depositary Receipt)은 미국 은행이 외국 증권을 예탁받�
 오틀리는 2025년 2월 12일 오전 8시(EST)에 2024년 4분기 실적 발표를 한다. 현재 1주당 가격이 약 0.5달러인데 ADR 비율 변경 계획을 발표하지 않는 것이 오히려 이상하다. 회사는 재무 건전성을 강화하고, 상장폐지를 방지하며, 장기적인 관점에서 펀더멘탈 향상을 위해 노력해야 할 시점이다.
 
 
+![nespresso](./assets/img/nespresso.png)
 
+Nespresso랑 오틀리가 협업해 캡슐 커피를 출시했다. 주가가 크게 하락했지만, 오틀리가 여전히 건실해 보인다는 점이 심적 안정감을 주었다. 
+
+토스증권에서 30 거래일 동안 주식 가격이 1달러보다 높지 않으면 상장폐지가 될 수 있다는 주의를 보고 투자 심리가 크게 위축되었다. 그러나 Reddit의 Oatlystock 커뮤니티에서 오틀리가 상장폐지 되냐고 물어보니 외국인들이 나보고 제대로 공부해서 오라며 팩트를 날렸다. 여러 요인이 복합적으로 작용하기 때문에 단순한 기준 하나로 쉽게 상장폐지 되지 않는다. 
+
+아직까지 오틀리보다 디자인이 예쁘고 구성이 잘 된 웹사이트는 본 적이 없다. 마트에 가면 괜히 음료수 코너에 가서 한 번씩 찾아보게 되는 브랜드다. 오틀리를 좋아하기 때문에, 근시일 내에 흑자 전환이 이루어지고 주가가 크게 올랐으면 좋겠다. 
 
 
 
