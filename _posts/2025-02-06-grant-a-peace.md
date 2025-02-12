@@ -7,8 +7,6 @@ categories: [Blog]
 tags: [post, instagram, theory of everything, oatly]
 ---
 
-본 제목은 도로 공사 구역에 있는 문구였다.
-
 <small><i>TMI: 운전하는 것처럼 사고가 나지 않도록 블로그를 조심히 다루겠다.</i></small>
 
 
@@ -40,14 +38,14 @@ Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, �
 
 ![oatly](./assets/img/oatly.jpeg)
 
-ADR(American Depositary Receipt)은 미국 은행이 외국 증권을 예탁받아 발행하는 증권이다. ADR과 보통주의 비율을 1대 1에서 1대 20으로 변경하는 것은 몇 가지 의미를 가질 수 있다. 하나는 주가 하락에 대비하기 위한 조치일 수 있고, 다른 하나는 주가 상승폭을 높이고 유동성을 확보하려는 전략일 수 있다.
+ADR(American Depositary Receipt)은 미국 은행이 외국 증권을 예탁받아 발행하는 증권이다. <a href="https://investors.oatly.com/news-releases/news-release-details/oatly-announces-plan-implement-adr-ratio-change">ADR과 보통주의 비율을 1대 1에서 1대 20으로 변경</a>하는 것은 몇 가지 의미를 가질 수 있다. 하나는 주가 하락에 대비하기 위한 조치일 수 있고, 다른 하나는 주가 상승폭을 높이고 유동성을 확보하려는 전략일 수 있다.
 
 오틀리는 2025년 2월 12일 오전 8시(EST)에 2024년 4분기 실적 발표를 한다. 현재 1주당 가격이 약 0.5달러인데 ADR 비율 변경 계획을 발표하지 않는 것이 오히려 이상하다. 회사는 재무 건전성을 강화하고, 상장폐지를 방지하며, 장기적인 관점에서 펀더멘탈 향상을 위해 노력해야 할 시점이다.
 
 
 ![nespresso](./assets/img/nespresso.png)
 
-Nespresso랑 오틀리가 협업해 캡슐 커피를 출시했다. 주가가 크게 하락했지만, 오틀리가 여전히 건실해 보인다는 점이 심적 안정감을 주었다. 
+<a href="https://www.oatly.com/things-we-do/brainwashing/nespresso">Nespresso랑 오틀리</a>가 협업해 캡슐 커피를 출시했다. 주가가 크게 하락했지만, 오틀리가 여전히 건실해 보인다는 점이 심적 안정감을 주었다. 
 
 토스증권에서 30 거래일 동안 주식 가격이 1달러보다 높지 않으면 상장폐지가 될 수 있다는 주의를 보고 투자 심리가 크게 위축되었다. 그러나 Reddit의 Oatlystock 커뮤니티에서 오틀리가 상장폐지 되냐고 물어보니 사람들이 나보고 제대로 공부해서 오라며 팩트를 날렸다. 여러 요인이 복합적으로 작용하기 때문에 단순한 기준 하나로 쉽게 상장폐지 되지 않는다. 
 

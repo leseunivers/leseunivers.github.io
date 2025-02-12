@@ -16,6 +16,7 @@ This website is inspired by A. H. Almaas’ <i>The Unfolding Now</i>. The Diamon
 
 ---
 
-말하는 감자 수준이니 따뜻한 시선으로 봐주세요.
+
+<small>*말하는 감자 수준이니 따뜻한 시선으로 봐주세요.</small>
 
 
