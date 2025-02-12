@@ -45,7 +45,7 @@ ADR(American Depositary Receipt)은 미국 은행이 외국 증권을 예탁받�
 
 ![nespresso](./assets/img/nespresso.png)
 
-<a href="https://www.oatly.com/things-we-do/brainwashing/nespresso">Nespresso랑 오틀리</a>가 협업해 캡슐 커피를 출시했다. 주가가 크게 하락했지만, 오틀리가 여전히 건실해 보인다는 점이 심적 안정감을 주었다. 
+<a href="https://www.oatly.com/things-we-do/brainwashing/nespresso">Nespresso와 오틀리</a>가 협업해 캡슐 커피를 출시했다. 주가가 크게 하락했지만, 오틀리가 여전히 건실해 보인다는 점이 심적 안정감을 주었다. 
 
 토스증권에서 30 거래일 동안 주식 가격이 1달러보다 높지 않으면 상장폐지가 될 수 있다는 주의를 보고 투자 심리가 크게 위축되었다. 그러나 Reddit의 Oatlystock 커뮤니티에서 오틀리가 상장폐지 되냐고 물어보니 사람들이 나보고 제대로 공부해서 오라며 팩트를 날렸다. 여러 요인이 복합적으로 작용하기 때문에 단순한 기준 하나로 쉽게 상장폐지 되지 않는다. 
 
