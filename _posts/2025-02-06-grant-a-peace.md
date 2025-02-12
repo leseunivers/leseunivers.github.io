@@ -7,7 +7,7 @@ categories: [Blog]
 tags: [post, instagram, theory of everything, oatly]
 ---
 
-<small><i>TMI: 운전하는 것처럼 사고가 나지 않도록 블로그를 조심히 다루겠다.</i></small>
+<small><i>TMI: 운전하는 것처럼 블로그를 조심히 다루겠다.</i></small>
 
 
 ### 인스타그램 게시물 
