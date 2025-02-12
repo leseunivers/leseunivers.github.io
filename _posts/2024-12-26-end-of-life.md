@@ -1,18 +1,16 @@
 ---
 title: "방랑자 크눌프"
-description: Hello, World! program is a computer program that emits to the screen a message.
+description: I'm Knulp (ft. Hermann Hesse & Avicii)
 image: 
-    path: ./assets/img/start.jpeg
+    path: ./assets/img/jp.jpg
 categories: [Blog]
 tags: [part-time, himalayas, study]
 ---
 
 ### <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램"> Hello, World! </a>
 
-![apro](./assets/img/apro.jpeg)
 
-
-Designing is something I enjoy. I started to make a website nine months ago. Since then, there has been progress. 
+I started to make a website nine months ago. Since then, there has been progress. 
 The original concept was based on a website I was developing at the beginning of the semester. 
 
 
