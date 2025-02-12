@@ -4,7 +4,7 @@ description: 하와이의 도로 표지판
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
-tags: [post, instagram, theory of everything, oatly]
+tags: [instagram, theory of everything, physics, oatly]
 ---
 
 <small><i>TMI: 운전하는 것처럼 블로그를 조심히 다루겠다.</i></small>
