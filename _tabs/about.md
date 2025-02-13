@@ -14,9 +14,5 @@ Chirpy is an <a href="https://github.com/cotes2020/jekyll-theme-chirpy">open sou
 
 This website is inspired by A. H. Almaas’ <i>The Unfolding Now</i>. The Diamond Approach is a path of wisdom, an approach to the investigation of reality and work on oneself that leads to human maturity and liberation. 
 
----
-
-
-<small>*말하는 감자 수준이니 따뜻한 시선으로 봐주세요.</small>
 
 
