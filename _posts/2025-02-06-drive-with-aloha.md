@@ -14,7 +14,8 @@ tags: [instagram, theory of everything, physics, oatly]
 
 ![post](./assets/img/post.jpeg)
 
-Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, 흰색 사용을 부탁했는데 여러 시안 중에서 가장 귀여운 것을 선택했다. 
+Image Playground라는 앱에서 AI가 만들어줬다. 검은색, 주황색, 흰색 사용을 부탁했는데 여러 시안 중에서 가장 귀여운 것을 선택했다. 헬멧으로 가려져 표정이 없는데 어떻게 저런 느낌이 나올 수 있을까? 왠지 이 친구는
+화성에 있을 것 같다. 아마도 기지에 있는 포토샵 존에서 SNS용 프로필 사진을 찍고, "나 화성 다녀옴" 같은 느낌으로 게시물을 올렸을 것 같다.
 <br>
 
 
