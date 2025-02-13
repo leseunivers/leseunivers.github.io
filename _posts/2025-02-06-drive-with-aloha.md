@@ -8,7 +8,6 @@ tags: [instagram, theory of everything, physics, oatly]
 ---
 
 "Drive with Aloha" is a campaign that promotes safe driving practices and the "Aloha Spirit" in Hawaii.
-<small><i>TMI: 차를 운전하는 것처럼 블로그를 조심히 다루겠다.</i></small>
 
 
 ### 인스타 게시물 
