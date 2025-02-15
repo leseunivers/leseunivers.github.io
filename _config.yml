@@ -122,9 +122,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: leseunivers/leseunivers.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDON1pfcA
+    category: General
+    category_id: DIC_kwDON1pfcM4Cm-vZ
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
