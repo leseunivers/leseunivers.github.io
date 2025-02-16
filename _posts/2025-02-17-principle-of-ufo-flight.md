@@ -1,0 +1,23 @@
+---
+title: UFO의 비행원리
+description: Principle of Unidentified Anomalous Phenomena
+image:
+    path: ./assets/img/ufo.png
+categories: [Books]
+tags: [ufo, association, korea, society, uap]
+---
+    저자:        강윤팔
+    출판:        하움출판사
+    발매:        2023.08.04
+
+
+### 한국UFO미스터리협회&학회
+
+공식 웹사이트: <a href="http://uapkorea.com">http://uapkorea.com</a>
+
+유튜브: <a href="www.youtube.com/@ufo459">www.youtube.com/@ufo459</a>
+
+
+### UFO 비행원리 증명
+
+유튜브: <a href="https://www.youtube.com/@%EA%B0%95%EC%9C%A4%ED%8C%94">https://www.youtube.com/@강윤팔</a>
