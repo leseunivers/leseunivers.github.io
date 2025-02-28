@@ -3,8 +3,8 @@
 
 %heading {
   color: var(--heading-color);
-  font-weight: 400;
-  font-family: v.$font-family-heading;
+  font-weight: 500;
+  font-family: AppleGaramond;
   scroll-margin-top: 3.5rem;
 }
 
@@ -157,4 +157,10 @@
 
 %panel-border {
   border-left: 1px solid var(--main-border-color);
+}
+
+
+@font-face {
+  font-family: 'AppleGaramond';
+  src: url('/assets/fonts/AppleGaramond-bold.ttf')
 }
