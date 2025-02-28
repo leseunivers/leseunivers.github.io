@@ -6,7 +6,7 @@ order: 4
 
 <p style="font-family: EB Garamond; font-size: 20px; line-height: 1.4;">
 
-Hello, my name is Seung Min Shin, and I'm currently a sophomore in the Department of Physics at Ajou University.
+Hello, my name is Merloham Shin, and I'm currently a sophomore in the Department of Physics at Ajou University.
 
 <br>
 
