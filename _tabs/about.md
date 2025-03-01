@@ -12,6 +12,6 @@ Hello, my name is Merloham Shin, and I'm currently a sophomore in the Department
 
 <br>
 
-The word 'essence' comes from the Latin 'essentia,' which is based on the root meaning 'to be' or 'to exist'. The label 'esmnce' was created by combining my identity and the word 'essence' to represent the idea of discovering the unique value.
+The word 'esmnce' comes from the Latin 'essentia,' which derives from the root meaning 'to be' or 'to exist'. Based on the exploration of metaphysical questions, the label represents the idea of discovering profound and unique value.
 
 </p>
