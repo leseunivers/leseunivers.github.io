@@ -60,7 +60,7 @@
 
  #topbar-title {
   display: none;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   font-weight: 100;
   font-family: "SDGothicL";
   color: var(--topbar-text-color);
@@ -69,7 +69,7 @@
   word-break: keep-all;
   letter-spacing: -1px;
   position: relative;
-  top: -1.5px;
+  top: -1px;
 
   @include bp.lt(bp.get(lg)) {
     display: block;
@@ -89,4 +89,10 @@
   @include bp.lt(bp.get(lg)) {
     display: block;
   }
+}
+
+
+@font-face {
+  font-family: "AppleGaramondLight";
+  src: url(./assets/fonts/AppleGaramond-Light.ttf)
 }
