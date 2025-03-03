@@ -2,7 +2,10 @@
 @use '../abstracts/placeholders';
 
 #archives {
-  letter-spacing: 0.03rem;
+  letter-spacing: -0.5px;
+  font-family: "EB Garamond";
+  font-weight: 600;
+
 
   @include bp.lt(bp.get(sm)) {
     margin-top: -1rem;

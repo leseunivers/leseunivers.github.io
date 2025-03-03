@@ -1,6 +1,9 @@
 @use '../abstracts/breakpoints' as bp;
 
 .tag {
+  letter-spacing: -0.5px;
+  font-family: "EB Garamond";
+  font-weight: 600;
   border-radius: 0.7em;
   padding: 6px 8px 7px;
   margin-right: 0.8rem;

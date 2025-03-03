@@ -4,8 +4,15 @@
 %heading {
   color: var(--heading-color);
   font-weight: 500;
-  font-family: AppleGaramondB;
+  font-family: "AppleGaramondB";
   scroll-margin-top: 3.5rem;
+}
+
+@media (max-width: 768px) {
+  %heading {
+    font-family: "EB Garamond";
+    letter-spacing: -1px;
+  }
 }
 
 %anchor {
