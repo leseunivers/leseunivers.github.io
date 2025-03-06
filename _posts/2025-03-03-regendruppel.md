@@ -196,8 +196,6 @@ $$
 
 ![toss](./assets/img/tosstshirt.jpeg)
 
-<p align="center"><small>비 오는 날이었지만 토스는 못 참지</small></p>
-
 <br>
 
 ### 고등학교
@@ -466,21 +464,23 @@ $$
 
 ---
 
-<b><small>책 출처</small></b>
+<small>책 출처</small>
 
-<small>프레드릭 배크만. <i>할머니가 미안하다고 전해달랬어요</i>. 이은선 역, 다산책방, 2016.</small>
+&nbsp;&nbsp;&nbsp;<small>프레드릭 배크만. <i>할머니가 미안하다고 전해달랬어요</i>. 이은선 역, 다산책방, 2016.</small>
 
-<small>리드 헤이스팅스, 에린 마이어. <i>규칙 없음</i>. 이경남 역, RHK, 2020.</small>
+&nbsp;&nbsp;&nbsp;<small>리드 헤이스팅스, 에린 마이어. <i>규칙 없음</i>. 이경남 역, RHK, 2020.</small>
 
-<small>강이경. <i>가슴에 우주를 품은 조선의 선비 홍대용</i>. 도토리숲, 2019.</small>
+&nbsp;&nbsp;&nbsp;<small>강이경. <i>가슴에 우주를 품은 조선의 선비 홍대용</i>. 도토리숲, 2019.</small>
 
-<small>유발 하라리. <i>사피엔스</i>. 조현욱 역, 김영사, 2015.</small>
+&nbsp;&nbsp;&nbsp;<small>유발 하라리. <i>사피엔스</i>. 조현욱 역, 김영사, 2015.</small>
 
-<small>유발 하라리. <i>호모 데우스</i>. 김명주 역, 김영사, 2017.</small>
+&nbsp;&nbsp;&nbsp;<small>유발 하라리. <i>호모 데우스</i>. 김명주 역, 김영사, 2017.</small>
 
-<small>권순용. <i>반도체, 넥스트 시나리오</i>. 위즈덤하우스, 2021.</small>
+&nbsp;&nbsp;&nbsp;<small>박효엽. <i>베단따의 힘</i>. CIR, 2019.</small>
 
-<br>
+&nbsp;&nbsp;&nbsp;<small>권순용. <i>반도체, 넥스트 시나리오</i>. 위즈덤하우스, 2021.</small>
+
+---
 
 <br>
 
