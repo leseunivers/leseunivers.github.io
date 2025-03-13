@@ -61,7 +61,7 @@ math: true
 
 <br>
 
-<img src="./assets/img/caraccident.jpeg" style="width: 120%; height: auto;">
+![car-open](./assets/img/caraccident.jpeg)
 
 &nbsp;&nbsp;&nbsp;양자역학에서 하이젠베르크의 불확정성 원리가 미시 세계의 본질적인 불확실성을 나타내듯이, 삶도 예측 불가능한 요소들로 가득 차 있다. 인생을 어떻게 살아야 할지 고민했을 때, 스티브 잡스는 나에게 큰 영향을 주었던 인물이다.
 암 투병 중이던 그는 스탠퍼드 졸업식 연설에서 죽음에 대해 이렇게 말했다.
