@@ -1,7 +1,7 @@
 ---
 title: "First Quarter 2025 Business Plan Report"    
 date: 2025-03-03 22:00 +0900
-description: "본 보고서는 2025년 1분기를 맞이하여 삶의 핵심 가치를 정립하고, 이를 바탕으로 지속 가능한 미래를 제시합니다."
+description: "본 자료는 2025년 1분기를 맞이하여 삶의 핵심 가치를 정립하고, 이를 바탕으로 지속 가능한 미래를 제시합니다."
 image: 
     path: ./assets/img/back.jpeg
 categories: [Blog]
@@ -462,7 +462,7 @@ math: true
 
 ![martian](./assets/img/post.jpeg) 
 
-<p style="font-family: AppleGaramond; font-size: 18px;" align="center"><small> P.S. 미술 동아리에 들어갔어. </small></p>
+<p style="font-family: AppleGaramond; font-size: 18px;" align="center"><small> P.S. 생각해봤는데 미술 동아리에 들어갔어. </small></p>
 
 <br>
 
