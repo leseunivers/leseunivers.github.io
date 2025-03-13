@@ -57,7 +57,7 @@ math: true
 연속적일 가능성이 있는가? 
 
 &nbsp;&nbsp;&nbsp;양자역학에서 파동함수는 일반적으로 복소수로 표현된다. 슈뢰딩거 방정식 자체도 복소수를 포함한 미분 방정식이기 때문에, 물리적 상태를 기술할 때 허수 차원이 포함되어 있다고 볼 수 있다. 양자도약을 허수 차원의 
-연속적인 변화로 해석할 수 있다면, 우리가 보기에 불연속적으로 보이는 현상이 실제로는 더 높은 차원(예: 복소수 공간)에서 연속적인 경로를 따라 변하는 것일 가능성도 있다.<sup>4</sup>
+연속적인 변화로 해석할 수 있다면, 우리가 보기에 불연속적으로 보이는 현상이 실제로는 더 높은 차원(예: 복소수 공간)에서 연속적인 경로를 따라 변하는 것일 가능성도 있다.<sup>2</sup>
 
 <br>
 
@@ -123,9 +123,9 @@ math: true
 
 #### 세계 경제
 
-![dotcom](./assets/img/dotcom.jpeg)<sup>NASDAQ Composite index<sup>2</sup></sup>
+![dotcom](./assets/img/dotcom.jpeg)<sup>NASDAQ Composite index<sup>3</sup></sup>
 
-&nbsp;&nbsp;&nbsp;현재의 주식 시장을 보면 닷컴 버블이 생각난다. 혹시 AI 열풍에 대한 대중의 미망과 광기<sup>3</sup>일까? <a href="https://www.tossbank.com/articles/bubble">토스뱅크</a>에서는
+&nbsp;&nbsp;&nbsp;현재의 주식 시장을 보면 닷컴 버블이 생각난다. 혹시 AI 열풍에 대한 대중의 미망과 광기<sup>4</sup>일까? <a href="https://www.tossbank.com/articles/bubble">토스뱅크</a>에서는
 현재 주가를 이끄는 기업들(Apple, NVIDIA, Microsoft, Alphabet, Amazon, Meta, Tesla)은 여전히 저평가 상태이고, 앞으로 더욱 이익을 낼 전망이라고 한다. 과거의 닷컴 버블과는 
 달리 IPO 시장이 침체한 상태이기 때문에 시장의 전문가들이 '아직 거품 수준이 아니다'라고 입을 모으고 있지만, 경제의 흐름은 누구도 확신할 수 없다.
 <sup>[6]</sup>
@@ -403,11 +403,7 @@ math: true
 
 &nbsp;&nbsp;&nbsp;예상과는 다르게, 회사 내부는 정말 깔끔하고 층고가 높은 것이 마음에 들었다. 바닥은 카펫 느낌의 재질이라 마치 미국 테크 기업에 들어온 것 같았다. 그런데 대기실에 들어가니 모두 양복 차림에 나이는 26~33살처럼 보였다. 내가 여기 있을 곳이 아니라고 생각했다. 나만 대학생인 것 같아서 굉장히 어색했다. 모두 비즈니스 캐주얼에 구두를 신은 모습과 비교했을 때 내 복장은 잠깐 커피 마시러 나온 아저씨 같았다. 면접장에는 나를 포함해 6명이 들어갔고, 옆에 앉은 사람들은 '인사팀', '팀장님' 등의 직책을 언급하며 면접 질문에 대답하고 있었다. 면접 도중에 문 열고 나가고 싶은 생각이 들었다.
 
-<small> 2: By Lalala666 at English Wikipedia - Transferred from en.wikipedia to Commons. Transfer was stated to be made by Ddxc., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3189816 </small>
-
-<small> 3: Charles Mackay. <i>대중의 미망과 광기</i>. 이윤섭 역, 필맥, 2018. </small>
-
-<small> 4: 양자도약의 연속성
+<small> 2: 양자도약의 연속성
 
 <ul>
     <li> 힐베르트 공간의 연속성: </li>
@@ -431,6 +427,9 @@ math: true
     이는 우리가 양자도약이 비가역적이고 순간적인 것으로 생각했던 것이, 더 미세한 수준에서는 연속적인 과정일 가능성이 있음을 시사한다.
 </ul>
 
+<small> 3: By Lalala666 at English Wikipedia - Transferred from en.wikipedia to Commons. Transfer was stated to be made by Ddxc., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3189816 </small>
+
+<small> 4: Charles Mackay. <i>대중의 미망과 광기</i>. 이윤섭 역, 필맥, 2018. </small>
 
 
 
