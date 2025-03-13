@@ -154,8 +154,6 @@ math: true
 
 <br>
 
-<br>
-
 #### UFO의 비행원리
 
 ‘UFO’는 허구적인 개념으로 여겨질 수 있으므로, 이에 관해 이야기할 때는 논리적인 흐름에 더욱 신경 쓰겠다.
@@ -172,8 +170,6 @@ math: true
 &nbsp;&nbsp;&nbsp;대학교 글쓰기 시간에 'UFO의 비행 원리'를 주제로 삼았으나, 교수님께서 유사과학적인 내용은 적합하지 않다고 말씀하셨다. 누군가 수십 년의 세월을 바쳐 연구한 결과가 이렇게 쉽게 일단락되는 것이 안타깝게 느껴졌다. 현재 기술로는 구현할 수 없다는 사실이 분명하므로, 이를 믿지 않는 것은 당연하다고 생각한다. 과학을 응원하는 나로서는 언젠가 돌파구를 찾아 비행 기술을 개발할 수 있기를 바란다.
 
 &nbsp;&nbsp;&nbsp;나의 무능함과 방대한 내용 때문에 책을 읽었어도 아직 제대로 이해하지 못했으며, 지금 내가 할 수 있는 최선은 이런 내용이 있다는 사실을 기록하는 것뿐이다. 다른 사람들에게 하나씩 설명하듯이 실타래를 풀어가면, 내용에 대한 이해가 깊어지고 자연스럽게 스스로 공부가 되지 않을까? 아래 내용은 핵심적인 부분들을 요약한 것이다.
-
-<br>
 
 ---
 
@@ -383,8 +379,6 @@ math: true
 
 <br>
 
-<br>
-
 ### 참고 자료
 
 ![hawaii_ocean](./assets/img/hawaiiocean.jpeg)
@@ -476,19 +470,13 @@ math: true
 
 <br>
 
-<br>
-
 ##### 에필로그
 
 <br>  
 
 ![martian](./assets/img/post.jpeg) 
 
-<p style="font-family: AppleGaramond; font-size: 18px;" align="center"><small> Where are we going from the Planet Mars? </small></p>
-
-<br>
-
-<br>
+<p style="font-family: AppleGaramond; font-size: 18px;" align="center"><small> P.S. 미술 동아리에 들어갔어. </small></p>
 
 <br>
 
