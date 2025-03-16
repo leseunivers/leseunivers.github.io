@@ -451,18 +451,6 @@ math: true
 
 &nbsp;&nbsp;&nbsp;<small>권순용. <i>반도체, 넥스트 시나리오</i>. 위즈덤하우스, 2021.</small>
 
----
-
-<br>
-
-##### 에필로그
-
-<br>  
-
-![martian](./assets/img/post.jpeg) 
-
-<p style="font-family: AppleGaramond; font-size: 18px;" align="center"><small> P.S. 생각해봤는데 미술 동아리에 들어갔어. </small></p>
-
 <br>
 
 <br>
