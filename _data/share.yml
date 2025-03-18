@@ -3,7 +3,11 @@
 
 platforms:
 
-#- type: X
+#  - type: Instagra
+  #icon: "fab-instagram"
+  #link: "https://www.instagram.com/esmnce.im"
+
+#  - type: X
   #icon: "fa-brands fa-square-x-twitter"
   #link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
