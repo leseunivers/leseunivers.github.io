@@ -7,6 +7,7 @@ image:
 categories: [Blog]
 tags: [universe, physics, science, philosophy]
 math: true
+permalink: /regendruppel/
 ---
 
 ### 서문
