@@ -4,7 +4,7 @@ date: 2025-03-03 22:00 +0900
 description: "본 자료는 2025년 1분기를 맞이하여 삶의 핵심 가치를 정립하고, 이를 바탕으로 지속 가능한 미래를 제시합니다."
 image: 
     path: ./assets/img/back.jpeg
-categories: [Blog]
+categories: [Article]
 tags: [universe, physics, science, philosophy]
 math: true
 ---
@@ -450,8 +450,6 @@ math: true
 &nbsp;&nbsp;&nbsp;<small>박효엽. <i>베단따의 힘</i>. CIR, 2019.</small>
 
 &nbsp;&nbsp;&nbsp;<small>권순용. <i>반도체, 넥스트 시나리오</i>. 위즈덤하우스, 2021.</small>
-
-<br>
 
 <br>
 
