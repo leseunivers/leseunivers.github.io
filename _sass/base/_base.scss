@@ -37,6 +37,11 @@ html {
   }
 }
 
+@font-face {
+  font-family: "SDGothicB";
+  src: url(./fonts/AppleSDGothicNeoB.ttf)
+}
+
 body {
   background: var(--main-bg);
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
@@ -44,6 +49,10 @@ body {
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
   font-family: v.$font-family-base;
+}
+
+p {
+  line-height: 2.0;
 }
 
 h1.dynamic-title {
